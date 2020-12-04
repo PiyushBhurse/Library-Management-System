@@ -9,7 +9,7 @@ Requirements:
 
 3. Each book will have a unique identification number and other details including a rack number which will help to physically locate the book.
 
-4. There could be more than one copy of a book, and library members should be able to check-out and reserve any copy. We will call each copy of a book, a book item.
+4. There could be more than one copy of a book, and library members should be able to check-out any copy. We will call each copy of a book, a book item.
 
 5. As a Librarian, The system should be able to retrieve information like who took a particular book or what are the books checked-out by a specific library member.
 
